@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My First Website</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: white;
+      text-align: center;
+    }
+    main {
+      padding: 100px 20px;
+    }
+    h1 {
+      font-size: 48px;
+    }
+    p {
+      color: #ccc;
+      line-height: 1.7;
+    }
+    a {
+      color: #111;
+      background: #b6f36b;
+      padding: 12px 22px;
+      border-radius: 8px;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 15px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <p>WELCOME TO MY WEBSITE</p>
+    <h1>My Creative World.</h1>
+    <p>This is my first website. More exciting things are coming soon.</p>
+    <a href="mailto:hello@example.com">Contact Me</a>
+  </main>
+</body>
+</html>
